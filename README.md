@@ -1,3 +1,3 @@
 # cloneTest
 learn git Test;
-once
+once twice
